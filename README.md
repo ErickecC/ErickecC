@@ -3,9 +3,10 @@
 ### Developer
 
 ### My Skills
-<li>
-<ul>HTML</ul>
-<ul>CSS</ul>
-<ul>JS</ul>
-<ul>Java</ul>
-</li>
+<button>HTML</button>
+<button>CSS</button>
+<button>JS</button>
+<button>Java</button>
+
+### About Me
+Two years in programming
