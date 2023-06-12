@@ -1,3 +1,5 @@
+<Doctype html>
+<body>
 ### Hi there 👋
 
 ### Developer
@@ -13,3 +15,8 @@
 <br>
 ### About Me
 Two years in programming
+
+![Texto alternativo](ruta/a/la/imagen.jpg)
+
+</body>
+<HTML>
