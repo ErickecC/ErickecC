@@ -19,8 +19,11 @@
 
 <button>Php</button>
 
-<button>React and React native(Framework Js)</button>
+<button>React(Framework Js)</button>
+
+</pre>
+<pre><h1>Contact me</h1>
 </pre>
 
-![Img](ruta/a/la/imagen.jpg)
+![Img](images/Developer.jpg)
 
