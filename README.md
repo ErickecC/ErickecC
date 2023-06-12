@@ -1,5 +1,5 @@
 <Doctype html>
-<body bgcolor="blue">
+<body >
 ### Hi there 👋
 
 ### Developer
