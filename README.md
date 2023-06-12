@@ -19,7 +19,7 @@
 
 <button>Php</button>
 
-<button>React AND React native(framework)</button>
+<button>React and React native(Framework Js)</button>
 </pre>
 
 ![Img](ruta/a/la/imagen.jpg)
