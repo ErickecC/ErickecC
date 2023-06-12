@@ -10,8 +10,7 @@
 
 Two years in programming
 
-![Img]
-(ruta/a/la/imagen.jpg)
+![Img](ruta/a/la/imagen.jpg)
 
 </body>
 <html>
