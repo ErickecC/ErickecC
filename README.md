@@ -1,6 +1,6 @@
 <h1><pre>- Web developer </pre></h1>
 
-### My skills
+## My skills
 
 <pre>
 <button>HTML</button>
