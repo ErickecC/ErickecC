@@ -4,15 +4,15 @@
 
 <pre>
 <button>HTML</button>
-<br>
+
 <button>CSS</button>
-<br>
+
 <button>JS</button>
-<br>
+
 <button>Java</button>
-<br>
+
 <button>Python</button>
-<br>
+
 <button>Ruby</button>
 
 <button>SQL</button>
