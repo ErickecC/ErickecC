@@ -6,6 +6,9 @@
      <link rel="stylesheet" href="style.css">  
  </head>
 <body>
- <h1>hola</h1>
+ <center>
+-hola
+</center>
+ 
 </body>
 
