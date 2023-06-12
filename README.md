@@ -1,22 +1,11 @@
-<Doctype html>
-<body >
-### Hi there 👋
+<!DOCTYPE html> 
+ <html lang="es"> 
+ <head> 
+     <meta charset="UTF-8"> 
+     <title>DreamArtsLimited</title> 
+     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+     <link rel="stylesheet" href="style.css"> 
+     <link rel="stylesheet" href="responsive.css"> 
+     <script src="script.js"></script> 
+ </head>
 
-### Developer
-
-### My Skills
-<button bgcolor="blue">HTML</button>
-<br>
-<button>CSS</button>
-<br>
-<button>JS</button>
-<br>
-<button>Java</button>
-<br>
-### About Me
-Two years in programming
-
-![Texto alternativo](ruta/a/la/imagen.jpg)
-
-</body>
-<HTML>
