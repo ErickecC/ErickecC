@@ -8,7 +8,11 @@
 <body>
 <h1><pre>- Web developer </pre></h1>
 
+Two years in programming
 
- 
+![Img]
+(ruta/a/la/imagen.jpg)
+
 </body>
+<html>
 
