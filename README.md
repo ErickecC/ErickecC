@@ -11,6 +11,13 @@
 <br>
 <button>Java</button>
 <br>
+<button>Python</button>
+<br>
+<button>Ruby</button>
+
+<button>SQL</button>
+<button>Php</button>
+
 </pre>
 
 ![Img](ruta/a/la/imagen.jpg)
