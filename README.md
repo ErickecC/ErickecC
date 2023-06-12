@@ -7,7 +7,7 @@
  </head>
 <body>
  <center>
--hola
+<pre>-             hola</pre>
 </center>
  
 </body>
